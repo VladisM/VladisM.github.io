@@ -3,9 +3,10 @@
 
 So, my name you already know. I'm student at University of Pardubice. I'm studying Communication and Microprocessor Technology, it is Bachelor's program. I don't live in Pardubice, I'm from small and nice village far far away from there but I will not tell you name of this village. :) But I can tell you that I'm from Czech Republic. 
 
-Let me say something about my hobbies. I'm really interested in electronic, especially in digital circuits like microcomputers, micro-controllers and so on. I'm programming ARM micro-controllers with Cortex M Core, in the past I programmed AVR micro-controllers and few historical processors like Intel 8080. I'm also programming for normal computers, especially in Python. And in the past I was a bit interested in PHP. Now I'm playing with FPGA and spending a lot of time on my project called MARK-II. So I write a lot of code in VHDL. 
+Let me say something about my hobbies. I'm really interested in electronic, especially in digital circuits like microcomputers, micro-controllers and so on. I'm programming ARM micro-controllers with Cortex M Core, in the past I programmed AVR micro-controllers and few historical processors like Intel 8080. I'm also programming for normal computers, a lot of Python in the past, but now mainly in C#. I was a bit interested in PHP programming before long time.. Now I'm playing with FPGA and spending a lot of time on my project called MARK II. So I write a lot of code in VHDL. 
 
 # Some of my projects
+* **MARK II** - 32b custom CPU
 * **SoCkit Linux** - example of running linux on FPGA with HPS, there is [final document](https://github.com/VladisM/sockit_linux/raw/manual/sockit_manual.pdf) (CZE)
 
 # Contact
