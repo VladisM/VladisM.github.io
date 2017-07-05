@@ -8,7 +8,6 @@ Let me say something about my hobbies. I'm really interested in electronic, espe
 # Some of my projects
 * **[MARK II](https://vladism.github.io/MARK_II)** - Simple SoC in VHDL with custom 32b CPU.
 * **SoCkit Linux** - example of running linux on FPGA with HPS, there is [final document](https://github.com/VladisM/sockit_linux/raw/manual/sockit_manual.pdf) (CZE)
-* **[Digital Piano](https://github.com/VladisM/Piano)** - Simple FPGA based digital piano.
 
 # Contact
 If you interested to contact me, you can use one of my emails:
