@@ -6,7 +6,7 @@ So, my name you already know. I'm student at University of Pardubice. I'm studyi
 Let me say something about my hobbies. I'm really interested in electronic, especially in digital circuits like microcomputers, micro-controllers and so on. I'm programming ARM micro-controllers with Cortex M Core, in the past I programmed AVR micro-controllers and few historical processors like Intel 8080. I'm also programming for normal computers, a lot of Python and C# in past. I was a bit interested in PHP programming before long time... Now I'm playing with FPGA and spending a lot of time on my project called MARK II. So I write a lot of code in VHDL. 
 
 # Some of my projects
-* **[MARK II](https://vladism.github.io/MARK_II)** - Simple SoC in VHDL with custom 32b CPU.
+* **[MARK II](https://hackaday.io/project/25696-mark-ii)** - Simple SoC in VHDL with custom 32b CPU and full toolchain.
 * **SoCkit Linux** - example of running linux on FPGA with HPS, there is [final document](https://github.com/VladisM/sockit_linux/raw/manual/sockit_manual.pdf) (CZE)
 
 # Contact
